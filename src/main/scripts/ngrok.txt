@@ -1,0 +1,2 @@
+// zhujq_test是自定义的域名前缀 8080是tomcat端口
+ngrok -config=ngrok.cfg -subdomain zhujq_test 8080
